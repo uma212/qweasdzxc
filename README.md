@@ -1,7 +1,7 @@
 # qweasdzxc
 
 <div class="cartoon">
-  <div class="wheel"></div>
+  <div class="wheeel"></div>
   <div class="frame frame-1"></div>
   <div class="frame frame-2"></div>
   <div class="handlebar"></div>
